@@ -1,6 +1,0 @@
-This book is to introduce the reader to Design patterns ..... 
-This book is about advanced Design patterns.
-
-Authors : 
-Sudeep. 
-Amit.
